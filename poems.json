@@ -1,155 +1,154 @@
 {
-    "poems": [
-      {
-        "name": "ఆలయం (Aalayam)",
-        "author": "ఒక తెలుగు కవి",
-        "lines": [
-          "ఆలయంలో పూజల సందేశం,",
-          "పవిత్రతలో తలుపు తెరుస్తుంది.",
-          "శాంతి, సంతోషం కలిపి,",
-          "భక్తి దారిలో సాగుతోంది."
-        ],
-        "category": "Spiritual",
-        "genre": "Bhakti",
-        "description": "This poem talks about the sanctity of temples and the peace and joy found through the path of devotion.",
-        "meaning": "The poem illustrates that people seeking devotion find peace in temples, emphasizing the value of inner tranquility and meditation.",
-        "image": "images/image1.png"
-      },
-      {
-        "name": "పశుపతి (Pashupati)",
-        "author": "జయశంకర్",
-        "lines": [
-          "పశుపతి లక్ష్మీశ్వరుడు,",
-          "పాలుకి వీరుడు నిలుస్తాడు.",
-          "ప్రపంచం పరిపాలించుట,",
-          "ఆత్మ బలం అధికంగా పెరుగుతుంది."
-        ],
-        "category": "Spiritual",
-        "genre": "Bhakti",
-        "description": "This poem highlights the grandeur of Pashupati (Lord Shiva) and his power to govern the universe.",
-        "meaning": "Pashupati, the mighty lord, governs the universe with divine power, and this poem emphasizes the growth of inner strength and righteousness.",
-        "image": "images/image2.png"
-      },
-      {
-        "name": "చిత్రంగా (Chitranga)",
-        "author": "ఒక తెలుగు కవి",
-        "lines": [
-          "చిత్రంగా జీవితం సాగిపోతుంది,",
-          "రంగుల వేళ్ళు ఉంచుకుంటే.",
-          "పరిశ్రమ మార్గంలో మనదైనది,",
-          "సృష్టి పుటలో వేడి పడుతూనే."
-        ],
-        "category": "Life",
-        "genre": "Philosophical",
-        "description": "A philosophical reflection on how life unfolds through varied experiences and colors.",
-        "meaning": "The poem explores the ever-changing and vibrant nature of life, filled with different paths, emotions, and lessons.",
-        "image": "images/image3.png"
-      },
-      {
-        "name": "మనసు (Manasu)",
-        "author": "ప్రముఖ కవి",
-        "lines": [
-          "మనసు అంటే ఒక గుండె కవిత,",
-          "అది ప్రేమ పుటపై పెరిగే గాథ.",
-          "సంకల్పం, ఆశలు మారుస్తున్నాయి,",
-          "ఆలోచనల జలంలో గాలి తిరుగుతుంది."
-        ],
-        "category": "Emotions",
-        "genre": "Romantic",
-        "description": "This poem delves into the complexities of the human heart and the transforming nature of love and hope.",
-        "meaning": "It reflects how love, hope, and determination shape the mind and how thoughts influence the course of emotions.",
-        "image": "images/image4.png"
-      },
-      {
-        "name": "వెన్నెల (Vennela)",
-        "author": "తెలుగు కవి",
-        "lines": [
-          "వెన్నెల జోడించి మనసును చూసినా,",
-          "నింగి కింద మరింత మెరుస్తుంది.",
-          "నమ్మకం, అనుభూతులు కలిసి,",
-          "మరొక రోజు శక్తిని గూర్చుకోగలదు."
-        ],
-        "category": "Nature",
-        "genre": "Inspirational",
-        "description": "A poem that connects the moonlight with the inner strength of an individual and how hope leads to a bright future.",
-        "meaning": "It compares moonlight as a metaphor for hope, showing that inner faith can illuminate even the darkest moments.",
-        "image": "images/image5.png"
-      },
-      {
-        "name": "గాలితో కలిసిన నది (Gaali To Kalisa Nadi)",
-        "author": "సిద్ధార్థ్",
-        "lines": [
-          "గాలితో కలిసిన నది",
-          "వెలుగునొచ్చిన చలనం.",
-          "అది మరొక దిశకు ప్రయాణం,",
-          "జీవిత గమ్యం చూసే ఆలోచన."
-        ],
-        "category": "Philosophy",
-        "genre": "Metaphorical",
-        "description": "A reflection on life’s journey and the impact of external forces like nature that guide one's destiny.",
-        "meaning": "The poem uses nature’s elements, wind, and river, to symbolize how life’s direction changes through internal and external forces.",
-        "image": "images/image6.png"
-      },
-      {
-        "name": "నక్షత్రాలు (Nakshatralu)",
-        "author": "ఆది కవి",
-        "lines": [
-          "నక్షత్రాలు నిద్రపోతే,",
-          "భూమి మరొక ప్రపంచం.",
-          "మనసులో సందేశం, సప్తతలు,",
-          "పురాణాల తాళాలను తిరుగుతుంది."
-        ],
-        "category": "Cosmos",
-        "genre": "Philosophical",
-        "description": "Explores the relationship between stars and the earthly world, and how ancient wisdom guides the present.",
-        "meaning": "The poem discusses the celestial connection and how the teachings of the past can still influence the present life.",
-        "image": "images/image7.png"
-      },
-      {
-        "name": "ప్రేమ (Prema)",
-        "author": "రామకృష్ణ",
-        "lines": [
-          "ప్రేమ పయనంలో నిరంతరం,",
-          "ఆశ, నమ్మకం నడిపించే మార్గం.",
-          "హృదయాలు కలిపినప్పుడు,",
-          "ఆ ఆనందం ఏడు కాంతులతో వెలిగుతుంది."
-        ],
-        "category": "Love",
-        "genre": "Romantic",
-        "description": "A love poem that describes how love, faith, and trust guide the path of hearts intertwined together.",
-        "meaning": "Love shines bright like a radiant light when hearts are united, and trust is built.",
-        "image": "images/image8.png"
-      },
-      {
-        "name": "మనస్సు (Manassu)",
-        "author": "మధుర కవి",
-        "lines": [
-          "మనస్సులో ఆలోచనలు పరిచయాలు,",
-          "బాధ, ఆనందం, అశాంతి కలిపే రంగులు.",
-          "ఒక దారిలో సాగుతుంటే,",
-          "మనసు మళ్ళీ మరొక దారిలో అడుగులు వేస్తుంది."
-        ],
-        "category": "Mind",
-        "genre": "Psychological",
-        "description": "A poetic exploration of the restless nature of the human mind and the constant battle between thoughts and emotions.",
-        "meaning": "The poem reflects how the mind constantly shifts between joy and sorrow, seeking peace amidst chaos.",
-        "image": "images/image9.png"
-      },
-      {
-        "name": "శాంతి (Shanti)",
-        "author": "సంగీత్",
-        "lines": [
-          "శాంతి కోసం శోధిస్తున్నా,",
-          "పరిమితి లేదు మన జీవితంలో.",
-          "మరింత సాగిపోతే, మరింత లోతైనది,",
-          "ఆత్మ శాంతి మార్గాన్ని వెలుగులా కనుగొంటుంది."
-        ],
-        "category": "Peace",
-        "genre": "Philosophical",
-        "description": "This poem talks about the continuous search for peace and the path to spiritual fulfillment.",
-        "meaning": "The poem emphasizes that inner peace is the ultimate goal that can be found through spiritual exploration and depth.",
-        "image": "images/image10.png"
-      }
-    ]
-  }
-  
+  "poems": [
+    {
+      "name": "ఆలయం (Aalayam)",
+      "author": "ఒక తెలుగు కవి",
+      "lines": [
+        {"line": "ఆలయంలో పూజల సందేశం,", "meaning": "The temple holds the message of worship,"},
+        {"line": "పవిత్రతలో తలుపు తెరుస్తుంది.", "meaning": "It opens the door to purity."},
+        {"line": "శాంతి, సంతోషం కలిపి,", "meaning": "Combining peace and happiness,"},
+        {"line": "భక్తి దారిలో సాగుతోంది.", "meaning": "It is progressing along the path of devotion."}
+      ],
+      "category": "Spiritual",
+      "genre": "Bhakti",
+      "description": "This poem talks about the sanctity of temples and the peace and joy found through the path of devotion.",
+      "meaning": "The poem illustrates that people seeking devotion find peace in temples, emphasizing the value of inner tranquility and meditation.",
+      "image": "images/image1.png"
+    },
+    {
+      "name": "పశుపతి (Pashupati)",
+      "author": "జయశంకర్",
+      "lines": [
+        {"line": "పశుపతి లక్ష్మీశ్వరుడు,", "meaning": "Pashupati is the lord of wealth and strength,"},
+        {"line": "పాలుకి వీరుడు నిలుస్తాడు.", "meaning": "He stands as a warrior for the cow (symbol of life),"},
+        {"line": "ప్రపంచం పరిపాలించుట,", "meaning": "To govern the world,"},
+        {"line": "ఆత్మ బలం అధికంగా పెరుగుతుంది.", "meaning": "The strength of the soul grows immensely."}
+      ],
+      "category": "Spiritual",
+      "genre": "Bhakti",
+      "description": "This poem highlights the grandeur of Pashupati (Lord Shiva) and his power to govern the universe.",
+      "meaning": "Pashupati, the mighty lord, governs the universe with divine power, and this poem emphasizes the growth of inner strength and righteousness.",
+      "image": "images/image2.png"
+    },
+    {
+      "name": "చిత్రంగా (Chitranga)",
+      "author": "ఒక తెలుగు కవి",
+      "lines": [
+        {"line": "చిత్రంగా జీవితం సాగిపోతుంది,", "meaning": "Life unfolds like a painting,"},
+        {"line": "రంగుల వేళ్ళు ఉంచుకుంటే.", "meaning": "If we hold on to the brushes of colors."},
+        {"line": "పరిశ్రమ మార్గంలో మనదైనది,", "meaning": "In the path of industry, ours is unique,"},
+        {"line": "సృష్టి పుటలో వేడి పడుతూనే.", "meaning": "It continues to grow on the page of creation."}
+      ],
+      "category": "Life",
+      "genre": "Philosophical",
+      "description": "A philosophical reflection on how life unfolds through varied experiences and colors.",
+      "meaning": "The poem explores the ever-changing and vibrant nature of life, filled with different paths, emotions, and lessons.",
+      "image": "images/image3.png"
+    },
+    {
+      "name": "మనసు (Manasu)",
+      "author": "ప్రముఖ కవి",
+      "lines": [
+        {"line": "మనసు అంటే ఒక గుండె కవిత,", "meaning": "The heart is a poem,"},
+        {"line": "అది ప్రేమ పుటపై పెరిగే గాథ.", "meaning": "It is a tale growing on the page of love."},
+        {"line": "సంకల్పం, ఆశలు మారుస్తున్నాయి,", "meaning": "Determination and hopes are changing,"},
+        {"line": "ఆలోచనల జలంలో గాలి తిరుగుతుంది.", "meaning": "In the waters of thoughts, the wind swirls."}
+      ],
+      "category": "Emotions",
+      "genre": "Romantic",
+      "description": "This poem delves into the complexities of the human heart and the transforming nature of love and hope.",
+      "meaning": "It reflects how love, hope, and determination shape the mind and how thoughts influence the course of emotions.",
+      "image": "images/image4.png"
+    },
+    {
+      "name": "వెన్నెల (Vennela)",
+      "author": "తెలుగు కవి",
+      "lines": [
+        {"line": "వెన్నెల జోడించి మనసును చూసినా,", "meaning": "When the moonlight joins and touches the heart,"},
+        {"line": "నింగి కింద మరింత మెరుస్తుంది.", "meaning": "It shines brighter under the sky."},
+        {"line": "నమ్మకం, అనుభూతులు కలిసి,", "meaning": "Faith and experiences unite,"},
+        {"line": "మరొక రోజు శక్తిని గూర్చుకోగలదు.", "meaning": "They will gather power for another day."}
+      ],
+      "category": "Nature",
+      "genre": "Inspirational",
+      "description": "A poem that connects the moonlight with the inner strength of an individual and how hope leads to a bright future.",
+      "meaning": "It compares moonlight as a metaphor for hope, showing that inner faith can illuminate even the darkest moments.",
+      "image": "images/image5.png"
+    },
+    {
+      "name": "గాలితో కలిసిన నది (Gaali To Kalisa Nadi)",
+      "author": "సిద్ధార్థ్",
+      "lines": [
+        {"line": "గాలితో కలిసిన నది", "meaning": "The river joined with the wind,"},
+        {"line": "వెలుగునొచ్చిన చలనం.", "meaning": "It starts moving with the light of energy."},
+        {"line": "అది మరొక దిశకు ప్రయాణం,", "meaning": "It embarks on a journey to another direction,"},
+        {"line": "జీవిత గమ్యం చూసే ఆలోచన.", "meaning": "A thought of life’s destiny is envisioned."}
+      ],
+      "category": "Philosophy",
+      "genre": "Metaphorical",
+      "description": "A reflection on life’s journey and the impact of external forces like nature that guide one's destiny.",
+      "meaning": "The poem uses nature’s elements, wind, and river, to symbolize how life’s direction changes through internal and external forces.",
+      "image": "images/image6.png"
+    },
+    {
+      "name": "నక్షత్రాలు (Nakshatralu)",
+      "author": "ఆది కవి",
+      "lines": [
+        {"line": "నక్షత్రాలు నిద్రపోతే,", "meaning": "When the stars fall asleep,"},
+        {"line": "భూమి మరొక ప్రపంచం.", "meaning": "The earth becomes another world."},
+        {"line": "మనసులో సందేశం, సప్తతలు,", "meaning": "The message of the heart, the seven truths,"},
+        {"line": "పురాణాల తాళాలను తిరుగుతుంది.", "meaning": "Unlocks the keys of the ancient stories."}
+      ],
+      "category": "Cosmos",
+      "genre": "Philosophical",
+      "description": "Explores the relationship between stars and the earthly world, and how ancient wisdom guides the present.",
+      "meaning": "The poem discusses the celestial connection and how the teachings of the past can still influence the present life.",
+      "image": "images/image7.png"
+    },
+    {
+      "name": "ప్రేమ (Prema)",
+      "author": "రామకృష్ణ",
+      "lines": [
+        {"line": "ప్రేమ పయనంలో నిరంతరం,", "meaning": "In the journey of love, constantly,"},
+        {"line": "ఆశ, నమ్మకం నడిపించే మార్గం.", "meaning": "Hope and faith lead the way."},
+        {"line": "హృదయాలు కలిపినప్పుడు,", "meaning": "When hearts are united,"},
+        {"line": "ఆ ఆనందం ఏడు కాంతులతో వెలిగుతుంది.", "meaning": "That joy shines with seven rays of light."}
+      ],
+      "category": "Love",
+      "genre": "Romantic",
+      "description": "A love poem that describes how love, faith, and trust guide the path of hearts intertwined together.",
+      "meaning": "Love shines bright like a radiant light when hearts are united, and trust is built.",
+      "image": "images/image8.png"
+    },
+    {
+      "name": "మనస్సు (Manassu)",
+      "author": "మధుర కవి",
+      "lines": [
+        {"line": "మనస్సులో ఆలోచనలు పరిచయాలు,", "meaning": "In the mind, thoughts introduce themselves,"},
+        {"line": "బాధ, ఆనందం, అశాంతి కలిపే రంగులు.", "meaning": "Sadness, happiness, and unrest blend like colors."},
+        {"line": "ఒక దారిలో సాగుతుంటే,", "meaning": "While it walks on one path,"},
+        {"line": "మనసు మళ్ళీ మరొక దారిలో అడుగులు వేస్తుంది.", "meaning": "The mind steps on another path once again."}
+      ],
+      "category": "Mind",
+      "genre": "Psychological",
+      "description": "A poetic exploration of the restless nature of the human mind and the constant battle between thoughts and emotions.",
+      "meaning": "The poem reflects how the mind constantly shifts between joy and sorrow, seeking peace amidst chaos.",
+      "image": "images/image9.png"
+    },
+    {
+      "name": "శాంతి (Shanti)",
+      "author": "సంగీత్",
+      "lines": [
+        {"line": "శాంతి కోసం శోధిస్తున్నా,", "meaning": "Though searching for peace,"},
+        {"line": "పరిమితి లేదు మన జీవితంలో.", "meaning": "There is no limit to our life."},
+        {"line": "మరింత సాగిపోతే, మరింత లోతైనది,", "meaning": "The deeper we go, the more profound it becomes,"},
+        {"line": "ఆత్మ శాంతి మార్గాన్ని వెలుగులా కనుగొంటుంది.", "meaning": "The soul finds the path of peace like a light."}
+      ],
+      "category": "Peace",
+      "genre": "Philosophical",
+      "description": "This poem talks about the continuous search for peace and the path to spiritual fulfillment.",
+      "meaning": "The poem emphasizes that inner peace is the ultimate goal that can be found through spiritual exploration and depth.",
+      "image": "images/image10.png"
+    }
+  ]
+}
