@@ -43,7 +43,7 @@
         "genre": "Philosophical",
         "description": "A philosophical reflection on how life unfolds through varied experiences and colors.",
         "meaning": "The poem explores the ever-changing and vibrant nature of life, filled with different paths, emotions, and lessons.",
-        "image": "images/image1.png"
+        "image": "images/image3.png"
       },
       {
         "name": "మనసు (Manasu)",
@@ -58,7 +58,7 @@
         "genre": "Romantic",
         "description": "This poem delves into the complexities of the human heart and the transforming nature of love and hope.",
         "meaning": "It reflects how love, hope, and determination shape the mind and how thoughts influence the course of emotions.",
-        "image": "images/image2.png"
+        "image": "images/image4.png"
       },
       {
         "name": "వెన్నెల (Vennela)",
@@ -73,7 +73,7 @@
         "genre": "Inspirational",
         "description": "A poem that connects the moonlight with the inner strength of an individual and how hope leads to a bright future.",
         "meaning": "It compares moonlight as a metaphor for hope, showing that inner faith can illuminate even the darkest moments.",
-        "image": "images/image1.png"
+        "image": "images/image5.png"
       },
       {
         "name": "గాలితో కలిసిన నది (Gaali To Kalisa Nadi)",
@@ -88,7 +88,7 @@
         "genre": "Metaphorical",
         "description": "A reflection on life’s journey and the impact of external forces like nature that guide one's destiny.",
         "meaning": "The poem uses nature’s elements, wind, and river, to symbolize how life’s direction changes through internal and external forces.",
-        "image": "images/image2.png"
+        "image": "images/image6.png"
       },
       {
         "name": "నక్షత్రాలు (Nakshatralu)",
@@ -103,7 +103,7 @@
         "genre": "Philosophical",
         "description": "Explores the relationship between stars and the earthly world, and how ancient wisdom guides the present.",
         "meaning": "The poem discusses the celestial connection and how the teachings of the past can still influence the present life.",
-        "image": "images/image1.png"
+        "image": "images/image7.png"
       },
       {
         "name": "ప్రేమ (Prema)",
@@ -118,7 +118,7 @@
         "genre": "Romantic",
         "description": "A love poem that describes how love, faith, and trust guide the path of hearts intertwined together.",
         "meaning": "Love shines bright like a radiant light when hearts are united, and trust is built.",
-        "image": "images/image2.png"
+        "image": "images/image8.png"
       },
       {
         "name": "మనస్సు (Manassu)",
@@ -133,7 +133,7 @@
         "genre": "Psychological",
         "description": "A poetic exploration of the restless nature of the human mind and the constant battle between thoughts and emotions.",
         "meaning": "The poem reflects how the mind constantly shifts between joy and sorrow, seeking peace amidst chaos.",
-        "image": "images/image1.png"
+        "image": "images/image9.png"
       },
       {
         "name": "శాంతి (Shanti)",
@@ -148,7 +148,7 @@
         "genre": "Philosophical",
         "description": "This poem talks about the continuous search for peace and the path to spiritual fulfillment.",
         "meaning": "The poem emphasizes that inner peace is the ultimate goal that can be found through spiritual exploration and depth.",
-        "image": "images/image2.png"
+        "image": "images/image10.png"
       }
     ]
   }
